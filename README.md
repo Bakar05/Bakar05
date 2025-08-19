@@ -10,15 +10,13 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bakar05&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
+<h2> 📊 &nbsp;GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakar05&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
-
+![](https://github-readme-stats.vercel.app/api?username=Bakar05&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github)
+<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bakar05&theme=dark&hide_border=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakar05&langs_count=3&theme=dark&hide_border=true)
 ---
 
 ### 🛠️ Languages & Tools  
