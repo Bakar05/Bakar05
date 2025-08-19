@@ -1,13 +1,23 @@
-<h1 align="center">Hi 👋, I'm Abu Bakar</h1>
-<h3 align="center">A Computer Science Student | Passionate about Data Science, NLP, and Conversational AI 🚀</h3>
+<h1>Hi 👋, I'm Abu Bakar</h1>
+<h3> Computer Science Student | Python & C++ Programmer | Passionate about Data Science & AI </h3>
 
 ---
 
-### 👨‍💻 About Me  
-- 🎓 CS student exploring **Data Science, NLP, and AI**  
-- 🌱 Currently learning **Machine Learning, SQL, and Deep Learning**  
-- 🤝 Open to collaborating on **AI, NLP, and Data-driven projects**  
-- 📫 Reach me at: **bakr220055@gmail.com**
+### About Me  
+-  CS student exploring **Data Science, NLP, and AI**  
+-  Open to collaborating on **Data-driven projects**  
+-  Reach me at: **bakr220055@gmail.com**
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bakar05&show_icons=true&theme=tokyonight" alt="github stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakar05&layout=compact&theme=tokyonight" alt="top languages" />
+</p>
 
 ---
 
@@ -22,34 +32,10 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bakar05&show_icons=true&theme=dark" alt="github stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakar05&langs_count=8&theme=dark&layout=compact" alt="top languages" height="180"/>
-</p>
-
----
-
-### 🚀 Projects Highlight  
-- 🧩 **[Sales Prediction System](#)** – Time-series forecasting using ARIMA, LSTM & regression  
-- 🐾 **[Virtual Pet Simulator](#)** – C++ OOP project modeling health, hunger & happiness  
-- 📊 **[ETL Pipeline for Country-GDP Data](#)** – Web scraping + SQLite storage + pandas analysis  
-- 🎬 **[IMDb Review Analysis](#)** – NLP-based sentiment analysis & topic modeling  
-
----
-
-### 🌱 Currently Exploring  
-- Machine Learning (Regression, Classification, Time-series)  
-- NLP (Sentiment Analysis, Conversational AI)  
-- Data Engineering (ETL pipelines, SQL optimization)  
-
----
-
 ### 🌐 Connect With Me  
 <p align="left">
 <a href="mailto:bakr220055@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 <a href="https://github.com/Bakar05" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
