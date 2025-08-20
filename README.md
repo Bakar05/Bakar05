@@ -16,7 +16,7 @@
 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bakar05&theme=dark&hide_border=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakar05&langs_count=3&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakar05&langs_count=4&theme=dark&hide_border=true)
 ---
 
 ### 🛠️ Languages & Tools  
