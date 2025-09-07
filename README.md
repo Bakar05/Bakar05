@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Abu Bakar</h1>
-<h3> Computer Science Student | Python & C++ Programmer | Passionate about Data Science & AI </h3>
+<h3> Transforming Insights into Impact | CS Student | From Preprocessing to Visualization & Databases </h3>
 
 ---
 
