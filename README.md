@@ -14,7 +14,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Bakar05&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github&card_width=500)
 ![](https://github-readme-streak-stats.herokuapp.com?user=Bakar05&theme=dark&hide_border=true&v=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakar05&langs_count=7&layout=compact&theme=dark&hide_border=true&card_width=500&hide=roff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakar05&langs_count=5&layout=compact&theme=dark&hide_border=true&card_width=500&hide=roff)
 
 ---
 
