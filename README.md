@@ -58,10 +58,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bakar05&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-h0i90zeg9-bakar05s-projects.vercel.app/api?username=Bakar05&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bakar05&layout=compact&theme=dark&hide_border=true&hide=roff&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-h0i90zeg9-bakar05s-projects.vercel.app/api/top-langs/?username=Bakar05&layout=compact&theme=dark&hide_border=true&hide=roff&count_private=true" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Bakar05&theme=dark&hide_border=true&v=1" alt="GitHub Streak" />
